@@ -53,6 +53,7 @@ const handleLogin = async () => {
   margin-bottom: 15px;
 }
 label {
+  text-align: left;
   display: block;
   margin-bottom: 5px;
 }
